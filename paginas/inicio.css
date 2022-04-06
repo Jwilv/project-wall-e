@@ -1,0 +1,53 @@
+.nav-menu{
+ 
+ }
+ .nav-menu__ul{
+ background-color: #AED6F1;
+ padding: 10px;
+
+	}
+ .nav-menu__li{
+ display: inline-block;
+ color: #fff;
+ margin: 5px;
+
+ }
+
+ .nav-menu__li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+ }
+ .nav-menu__li i{
+	width: 30px;
+	box-sizing: border-box;
+	text-align: right;
+ }
+ .Pre-proyecto__1{
+    color: #F0F3F4;
+    font-size: 4em;
+    font-weight: 600;
+    background-color: #212F3C;
+    padding: 1em;
+    text-align: center;
+    margin: 30px 75px;
+ }
+ 
+ *{
+    font-family: 'DM Sans', sans-serif;
+ }
+ .proyectos__1{
+    margin: 1em;
+    font-size: 60px;
+    display: inline-block;
+    padding-left: 30px;
+
+ }
+ .proyectos__1 a{
+    text-decoration: none;
+    background-color: #212F3C;
+    padding: 9px;
+    color: #F0F3F4;
+ }
+ 
+

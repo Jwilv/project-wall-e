@@ -1,0 +1,164 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+  }
+.title-walle{
+	font-size: 16px;
+}
+.title-walle__h1{
+	font-size: 4em;
+	font-family: 'Press Start 2P', cursive;
+	font-weight: 600;
+	background-color: #000;
+	border-radius:15px;
+	color: #fff;
+	padding: 1em;
+	text-align: center;
+	margin: 30px 75px;
+	transition: background 1s;
+	}
+	.title-walle__h1:hover{
+	background-color: #AED6F1 ;
+    }
+    .title-grup{
+	font-size:16xp;
+   }
+   .title-grup__0{
+   	text-align: center;
+   }
+ .title-grup__1{
+	font-size: 2em;
+	padding: 5px;
+	text-align: center;
+	font-family: 'Ramaraja', serif;
+	background-color: #000000;
+	color: #fff;
+	display: inline-block;
+    }
+  .title-grup__2{
+	font-size: 1em;
+	text-align: center;
+
+   }
+ .title-grup__3{
+	font-size: 2em;
+   text-align: center;
+	margin: 20px;
+  }
+  .icon-prof{
+ padding: 1em;
+ text-align: center;
+
+ }
+ 
+   .title-inf{
+	font-size: 16xp;
+ }
+ .title-inf__1{
+	font-size: 2em;
+	text-align: center;
+	margin: 15px;
+ }
+ .table{
+	font-size: 16px;
+ }
+ .table__1{
+ font-size: 25px;
+ text-align: left;
+ margin: 10px;
+
+ }
+
+
+ } 
+ .nav-menu{
+ 
+ }
+ .nav-menu__ul{
+ background-color: #AED6F1;
+ padding: 10px;
+
+	}
+ .nav-menu__li{
+ display: inline-block;
+ color: #fff;
+ margin: 5px;
+
+ }
+
+ .nav-menu__li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+ }
+ .nav-menu__li i{
+	width: 30px;
+	box-sizing: border-box;
+	text-align: right;
+ }
+ .img{
+ 	display: grid;
+ 	grid-template-columns: repeat(auto-fill, minmax(400px,1fr));
+ }
+ .img img{
+ 	width: 400px;
+ 	height: 400px;
+ }
+.clases-letra{
+	padding: 9px;
+	margin: 1em;
+	text-align: center;
+	font-size: 2em;
+
+}
+.img-2{
+	padding: 1em;
+ text-align: center;
+
+}
+.paragraph{
+	padding: 9px;
+	margin: 1em;
+	text-align: center;
+	font-size: 2em;
+}
+.contac{
+ padding: 9px;
+	margin: 5px;
+	text-align: left;
+	font-size: 2em;
+	background-color:#000 ;
+	display: inline-block;
+	color: #fff;
+}
+.enlace {
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+	margin: 20px 50px;
+	font-size: 20px;
+	display: inline-block;
+ }
+#fondo{
+	background-image:url(../imagenes/fondow.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#final{
+color: black;
+background-color: black;
+}
+.logo-cole{
+	margin: 1em;
+	text-align: center;
+	padding: 15PX;
+}
+
+ @media only screen and (max-width: 800px){
+ 
+ .nav-menu{
+ 	font-size: 20px;
+ }
+ .nav-menu__ul{
+ margin: 20px;
+ }
+}
